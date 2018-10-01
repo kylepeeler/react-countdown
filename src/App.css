@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.countdown-container > .countdown-item{
+  text-align: center;
+  display: inline-block;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 94px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 15px 0;
+  margin: 7px;
+}
+
+.countdown-item > .countdown-value{
+  font-size: 30px;
+  display: block;
+}
+
+.countdown-item > .countdown-unit{
+  color: #aaa;
+  font-weight: 600;
+  font-size: 13px;
+}
