@@ -54,7 +54,7 @@ export default class Countdown extends React.Component {
                 <CountdownItem value={this.state.hours} unit={this.state.hours === 1 ? 'Hour' : 'Hours'}></CountdownItem>
                 <CountdownItem value={this.state.minutes} unit={this.state.minutes === 1 ? 'Minute' : 'Minutes'}></CountdownItem>
                 <CountdownItem value={this.state.seconds} unit={this.state.seconds === 1 ? 'Second' : 'Seconds'}></CountdownItem>
-            </div >
+            </div>
         )
     }
 }
