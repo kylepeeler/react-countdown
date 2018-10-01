@@ -1,5 +1,6 @@
 # Countdown Timer Example in React
 
+![](images/countdown-output.png?raw=true)
 ### This is a basic implementation of a countdown timer in React. 
 
 To start the example, clone the repository and run `yarn start` or `npm start`.
